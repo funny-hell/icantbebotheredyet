@@ -1,6 +1,6 @@
 - Name: icantbebotheredyet
   Version: 0.0.1
-  DLL: bin/Funny.dll
+#  DLL: bin/Funny.dll
   Dependencies:
     - Name: CherryHelper
       Version: 1.7.1
