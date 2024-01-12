@@ -1,0 +1,25 @@
+- Name: icantbebotheredyet
+  Version: 0.0.1
+  Dependencies:
+    - Name: CherryHelper
+      Version: 1.7.1
+    - Name: CollabUtils2
+      Version: 1.10.4
+    - Name: CommunalHelper
+      Version: 1.19.3
+    - Name: Everest
+      Version: 1.4506.0
+    - Name: FemtoHelper
+      Version: 1.11.3
+    - Name: FlaglinesAndSuch
+      Version: 1.6.16
+    - Name: FrostHelper
+      Version: 1.47.1
+    - Name: GravityHelper
+      Version: 1.2.0
+    - Name: LunaticHelper
+      Version: 1.1.1
+    - Name: MaxHelpingHand
+      Version: 1.29.0
+    - Name: XaphanHelper
+      Version: 1.0.58
