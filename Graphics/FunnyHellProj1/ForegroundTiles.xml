@@ -329,7 +329,8 @@
 
   <Tileset id="n" copy="z" path="scifi"/>
   
-  <Tileset id="π" copy="y" path="fuuyhelproj1/hostilePlaceholder" sound="8" ignores="Θ"/>
+  <Tileset id="]" copy="y" path="fuuyhelproj1/hostilePlaceholder" sound="8" ignores="Θ"/>
+  <Tileset id="@" copy="y" path="fuuyhelproj1/hostileFill" sound="8" ignores="Θ"/>
   <Tileset id="Θ" path="fuuyhelproj1/Spooooky/butternutGrass" sound="33">
   <!-- edge -->
       <!-- top edge -->
@@ -436,5 +437,9 @@
       <set mask="center" tiles="7,7; 8,7; 7,8; 8,8"/>
   </Tileset>
   
-  <Tileset id="⨂" copy="y" path="fuuyhelproj1/hostilePlaceholder" sound="8" ignores="*"/>
+  <Tileset id="p" copy="y" path="fuuyhelproj1/derzoxYellowCheckerboard" sound="8" ignores="*"/>
+  
+  <Tileset id="%" copy="y" path="fuuyhelproj1/spritesugar" sound="4"/>
+  
+  <Tileset id="O" copy="y" path="fuuyhelproj1/boiler" sound="7"/>
 </Data>
