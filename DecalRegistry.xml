@@ -1,5 +1,5 @@
 <decals>
-	<decal path="fuuyhellproj1/finxx/bridge">
+	<decal path="fuuyhelproj1/finxx/bridge">
 		<depth value="-50" />
 		<solid x="-64" y="0" width="12" height="10" index="5" />
 		<solid x="-52" y="2" width="12" height="10" index="5" />
